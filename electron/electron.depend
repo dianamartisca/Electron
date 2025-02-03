@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1704204881 source:c:\users\diana\documents\electron\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winbgim.h>
+	<graphics.h>
+
